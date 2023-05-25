@@ -1,1 +1,1 @@
-
+float ricercaMax(float*, int );
